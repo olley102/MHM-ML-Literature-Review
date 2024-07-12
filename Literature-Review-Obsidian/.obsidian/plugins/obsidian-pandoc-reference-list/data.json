@@ -1,0 +1,19 @@
+{
+  "pathToPandoc": "C:\\Users\\olley\\AppData\\Local\\Pandoc\\pandoc.EXE",
+  "tooltipDelay": 400,
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1720690322765
+    }
+  ],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": false,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "cslLang": "en-GB",
+  "pullFromZotero": true
+}

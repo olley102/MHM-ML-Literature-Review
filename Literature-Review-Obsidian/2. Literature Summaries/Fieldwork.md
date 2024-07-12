@@ -1,0 +1,8 @@
+- [[@roelfsemaCoralReefHabitat2018]]
+- [[@beca-carreteroNovelMethodCombining2020]]
+- [[@hossainApplicationLandsatImages2015]]
+- [[@duffySpatialAssessmentIntertidal2018]]
+- [[@carpenterUsingUnoccupiedAerial2022]]
+- [[@haComparativeAssessmentEnsembleBased2020]]
+- [[@garciaMethodAnalyzePotential2015]]
+- [[@magriApplicationMachineLearning2023]]
